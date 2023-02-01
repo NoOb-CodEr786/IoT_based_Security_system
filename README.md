@@ -20,13 +20,9 @@ Tools and Technologies Used: -
 About The Solved Problem Statement/Device: - 
 -----------------------------------------------------------
 
-If we discuss about the specification of my device then my device can solve the security problem from a
+If we discuss about the specification of my device then my device can solve the security problem from a distance like any one can implement this device in their garage, parking area etc.
 
-distance like any one can implement this device in their garage, parking area etc.
-
-There are IRs or Infra Red sensors and a buzzer is used to implement the device , this  device can also be used as a digital eye, 
-
-means if this is implemented somewhere then it sense  the movement from a distance and send the feedback to the user and the buzzer also starts ringing...
+There are IRs or Infra Red sensors and a buzzer is used to implement the device , this  device can also be used as a digital eye, means if this is implemented somewhere then it sense  the movement from a distance and send the feedback to the user and the buzzer also starts ringing...
 
 
 
